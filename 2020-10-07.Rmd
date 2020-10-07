@@ -1,0 +1,19 @@
+---
+title: "課堂練習模版"
+author: "Dino"
+date: "2020-10-07"
+output: output_format
+params:
+  id: "410973033"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Your code
+
+```{r}
+
+```
+
